@@ -1,0 +1,9 @@
+.cache/
+build/
+node_modules/
+uploads/
+.env
+.env.template
+docker-compose.yml
+medusa-config.js
+src/
